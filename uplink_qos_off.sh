@@ -2,7 +2,7 @@
 
 uplinkstatus=$(uci get qos.wan.enabled 2>/dev/null)
 
-if [ "$uplinkstatus" = "1" ]; then
+if [ "$uplinkstatus" = "1" ]
   then
     uci set qos.wan.enabled=0 2> /dev/null && \
     uci commit qos 2> /dev/null && \
