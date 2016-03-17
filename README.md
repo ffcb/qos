@@ -1,2 +1,2 @@
 # qos
-scripts for (de-)activating qos for the uplink
+These scripts can be used at OpenWrt-devices for (de-)activating QoS for the uplink
