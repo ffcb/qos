@@ -1,4 +1,4 @@
-# Qos
+# QoS-scripts
 These scripts can be used at OpenWrt-devices for changing QoS via cron
 
 Steps:
