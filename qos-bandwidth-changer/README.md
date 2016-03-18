@@ -1,3 +1,5 @@
+# QoS-bandwidth-changer
+
 These scripts can be used at OpenWrt-devices for changing the bandwidths for the uplink
 
 Steps:
